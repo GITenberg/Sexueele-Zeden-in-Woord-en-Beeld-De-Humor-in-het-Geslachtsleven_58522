@@ -1,5 +1,8 @@
 _repo: Sexueele-Zeden-in-Woord-en-Beeld-De-Humor-in-het-Geslachtsleven_58522
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58522-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Vloten Elderinck, D. Ph. van
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '25769'
     url: http://www.gutenberg.org/2009/agents/25769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58522#Sexueele-Zeden-in-Woord-en-Beeld-De-Humor-in-het-Geslachtsleven
 gutenberg_issued: '2018-12-22'
 gutenberg_type: Text
 identifiers:
